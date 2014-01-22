@@ -7,6 +7,8 @@ require "mapmyfitness/friend_store"
 require "mapmyfitness/friend"
 require "json"
 require "faraday"
+require "mapmyfitness/photo_store"
+require "mapmyfitness/photo"
 
 module MapMyFitness
 
